@@ -107,10 +107,10 @@ O fluxo analítico inclui:
 ## 🗂️ Estrutura do repositório
 ```
 vulnerabilidade-bh
-├── analise.ipynb   # notebook com todo o processo analítico
 ├── CITATION.cff    # metadados para citação acadêmica
 ├── LICENSE         # licença CC BY-NC 4.0
-└── README.md       # documentação do projeto
+├── README.md       # documentação do projeto
+└── analise.ipynb   # notebook com todo o processo analítico
 ```
 
 ---
