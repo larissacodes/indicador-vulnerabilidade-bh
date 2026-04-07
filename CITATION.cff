@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Mapeando a Desigualdade Urbana com Python"
+abstract: "Análise de vulnerabilidade socioambiental em Belo Horizonte a partir de dados do Censo Demográfico 2022, utilizando geoprocessamento e métodos quantitativos replicáveis para municípios brasileiros."
+authors:
+  - family-names: "Aguiar"
+    given-names: "Larissa Diniz"
+    orcid: "https://orcid.org/0009-0006-5478-0702"
+    affiliation: "Pontifícia Universidade Católica de Minas Gerais (PUC Minas)"
+type: software
+license: CC-BY-NC-4.0
+repository-code: "indicador-vulnerabilidade-bh"
+url: "https://github.com/larissacodes/indicador-vulnerabilidade-bh"
+date-released: "2026-04-07"
+keywords:
+  - desigualdade urbana
+  - vulnerabilidade socioambiental
+  - geoprocessamento
+  - python
+  - censo 2022
+  - ibge
+  - análise espacial
+preferred-citation:
+  type: software
+  title: "Mapeando a Desigualdade Urbana com Python"
+  authors:
+    - name: "Aguiar, Larissa Diniz"
+  year: 2026
+  repository-code: "indicador-vulnerabilidade-bh"
+  url: "https://github.com/larissacodes/indicador-vulnerabilidade-bh"
+  license: CC-BY-NC-4.0
