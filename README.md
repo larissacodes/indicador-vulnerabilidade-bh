@@ -1,4 +1,4 @@
-# Mapeando a Desigualdade Urbana com Python
+# Mapeando a desigualdade urbana com Python e natural breaks
 
 Análise de vulnerabilidade socioambiental em Belo Horizonte com dados do Censo 2022, utilizando Python e geoprocessamento.
 
